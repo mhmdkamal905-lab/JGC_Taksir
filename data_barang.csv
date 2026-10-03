@@ -1,0 +1,41 @@
+category,brand,model,new_price,age_years,ram_gb,storage_gb,physical_condition,functionality,completeness,market_price
+HP,Samsung,Galaxy A54,6000000,1,8,256,Sangat Baik,Normal,Lengkap,3500000
+HP,Samsung,Galaxy A34,4500000,1,8,128,Baik,Normal,Lengkap,2800000
+HP,Samsung,Galaxy A24,3500000,2,8,128,Baik,Normal,Lengkap,1900000
+HP,Samsung,Galaxy S21,9000000,3,8,128,Cukup,Normal,Lengkap,3800000
+HP,Samsung,Galaxy S22,12000000,2,8,256,Sangat Baik,Normal,Lengkap,6500000
+HP,Apple,iPhone 11,9000000,4,4,128,Cukup,Normal,Lengkap,4200000
+HP,Apple,iPhone 12,11000000,3,4,128,Baik,Normal,Lengkap,5500000
+HP,Apple,iPhone 13,13000000,2,4,128,Sangat Baik,Normal,Lengkap,7500000
+HP,Apple,iPhone XR,7500000,5,3,64,Cukup,Normal,Tidak Lengkap,2800000
+HP,Xiaomi,Redmi Note 12,3000000,2,8,128,Baik,Normal,Lengkap,1600000
+HP,Xiaomi,Redmi Note 13,3500000,1,8,256,Sangat Baik,Normal,Lengkap,2300000
+HP,Xiaomi,Poco X5,4000000,2,8,256,Baik,Normal,Lengkap,2400000
+HP,OPPO,Reno 8,6000000,2,8,256,Baik,Normal,Lengkap,3300000
+HP,OPPO,A78,3500000,2,8,128,Cukup,Normal,Tidak Lengkap,1800000
+HP,Vivo,V27,6000000,2,8,256,Sangat Baik,Normal,Lengkap,3500000
+Laptop,ASUS,Vivobook 14,9000000,2,8,512,Baik,Normal,Lengkap,5500000
+Laptop,ASUS,Vivobook 15,10000000,1,16,512,Sangat Baik,Normal,Lengkap,7000000
+Laptop,ASUS,TUF Gaming F15,15000000,2,16,512,Baik,Normal,Lengkap,9500000
+Laptop,ASUS,ROG Strix G15,20000000,3,16,1024,Cukup,Normal,Lengkap,11000000
+Laptop,Acer,Aspire 5,8500000,1,16,512,Sangat Baik,Normal,Lengkap,6200000
+Laptop,Acer,Aspire 3,6500000,2,8,256,Baik,Normal,Lengkap,4000000
+Laptop,Acer,Nitro 5,13000000,3,16,512,Cukup,Normal,Lengkap,7000000
+Laptop,Lenovo,IdeaPad 3,7500000,3,8,256,Cukup,Normal,Tidak Lengkap,3200000
+Laptop,Lenovo,IdeaPad Slim 3,8500000,2,8,512,Baik,Normal,Lengkap,5000000
+Laptop,Lenovo,ThinkPad T14,14000000,2,16,512,Baik,Normal,Lengkap,8500000
+Laptop,HP,14s,8000000,2,8,512,Baik,Normal,Lengkap,4800000
+Laptop,HP,Pavilion 14,11000000,2,16,512,Sangat Baik,Normal,Lengkap,6800000
+Laptop,HP,EliteBook 840,15000000,3,16,512,Cukup,Normal,Tidak Lengkap,7200000
+Tablet,Apple,iPad 9,6000000,3,3,64,Baik,Normal,Lengkap,3500000
+Tablet,Apple,iPad 10,8000000,2,4,64,Sangat Baik,Normal,Lengkap,5200000
+Tablet,Samsung,Galaxy Tab A8,3500000,2,4,128,Baik,Normal,Lengkap,2100000
+Tablet,Samsung,Galaxy Tab S8,11000000,2,8,128,Sangat Baik,Normal,Lengkap,6500000
+Tablet,Xiaomi,Pad 5,5000000,3,6,256,Cukup,Normal,Lengkap,2800000
+Tablet,Lenovo,Tab M10,3500000,3,4,64,Cukup,Normal,Tidak Lengkap,1600000
+Kamera,Canon,Eos M50,9000000,4,4,0,Baik,Normal,Lengkap,5000000
+Kamera,Canon,Eos 200D,8000000,5,4,0,Cukup,Normal,Tidak Lengkap,3500000
+Kamera,Sony,A6400,13000000,3,4,0,Sangat Baik,Normal,Lengkap,8500000
+Kamera,Sony,A6000,8000000,5,4,0,Cukup,Normal,Lengkap,4200000
+Kamera,Nikon,D5600,9500000,4,4,0,Baik,Normal,Lengkap,5200000
+Kamera,Nikon,D3500,7000000,5,4,0,Cukup,Normal,Tidak Lengkap,3200000
